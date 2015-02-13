@@ -1,0 +1,73 @@
+h1,h2,h3{
+  font-family:'Sigmar One', decorative;
+  color: #cc3865;
+}
+
+h2{
+  border-top: 3px solid #ffe524;
+  line-height: 3em;
+  margin-bottom 0;
+}
+
+nav li{
+  display:inline;
+  background-color: #b2a215;
+  padding: .5em;
+  border-radius: .2em;
+}
+
+nav a{
+  text-decoration: none;
+  color: white;
+}
+
+nav li:hover{
+  background-color: #cc3865;
+}
+
+header{
+  background-color: #ffe524;
+    text-align: center;
+}
+
+body, header h1, dd{
+  margin: 0;
+}
+
+nav, main{
+  padding: .5em;
+}
+
+blockquote{
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: #b2a215;
+  text-align: center;
+}
+
+blockquote cite{
+  text-align: center;
+  display: block;
+}
+
+blockquote span{
+  display: block;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+img{
+  width: 100%;
+}
+
+figure{
+  background-color: #fffce0;
+  padding: .75em;
+  border-radius: .5em;
+  border: 1px solid #b2a215;
+  text-align: center;
+  font-size: .75em;
+  line-height: 1.5em;
+  margin-right: 0;
+  margin-left: 0;
+}
