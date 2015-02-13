@@ -71,3 +71,17 @@ figure{
   margin-right: 0;
   margin-left: 0;
 }
+
+dt{
+  font-weight: bold;
+}
+
+footer{
+  background-color: #ffe524;
+  text-align: center;
+  padding: 0.5em
+}
+
+a{
+  color: #cc3865;
+}
